@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-route-sample"
+  "defaultProject": "angular-route-sample",
+  "cli": {
+    "analytics": "0f1b3745-187a-4c05-b9fc-dca7bbdf3e68"
+  }
 }
